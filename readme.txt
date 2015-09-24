@@ -1,2 +1,1 @@
-git init..............
-hanlizhi
+good study day day up
